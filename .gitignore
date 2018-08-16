@@ -1,0 +1,4 @@
+*.sw*
+*.old
+account.ini
+*.log
