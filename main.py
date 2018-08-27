@@ -15,7 +15,6 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.common import exceptions
 from selenium.webdriver.remote.remote_connection import LOGGER
-import pandas as pd
 
 class FacebookGrab (object) : 
 
